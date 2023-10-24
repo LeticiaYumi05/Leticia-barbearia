@@ -51,8 +51,8 @@
     
     
     body {
-        background: rgba(182, 26, 230, 0.658);
-        background: radial-gradient(circle, rgba(142, 5, 184, 0.658) 0%, rgba(27, 145, 255, 0.76) 100%);
+        background: rgba(255, 72, 246, 0.658);
+        background: radial-gradient(circle, rgba(255, 60, 239, 0.658) 0%, rgba(27, 145, 255, 0.76) 100%);
     }
     
     
